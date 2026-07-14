@@ -68,8 +68,6 @@ I enjoy building product-focused software with strong engineering fundamentals. 
 ## Connect With Me
 - Email: **kanhaiya1krishna@gmail.com**
 - GitHub: **github.com/KrishnaKanhaiya1**
-- LinkedIn: **Add your LinkedIn URL here**
-- Portfolio: **Add your portfolio URL here**
 
 ***
 
