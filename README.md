@@ -42,6 +42,6 @@ A production-grade financial literacy and stock simulator platform built for you
 
 * 🔭 Currently expanding my knowledge in system design, distributed systems, and real-time backend communication (WebSockets, SSE).
 * 💬 Ask me about **API design**, **data normalization**, and **state-machine routing**.
-* 📫 How to reach me: [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME) | [Email](mailto:your.email@example.com)
+* 📫 How to reach me: [LinkedIn](https://linkedin.com/in/krishna-kanhaiya-124080295) | [Email](mailto:kahaiya1krishna@gmail.com)
 
 [github-profile]: https://github.com/KrishnaKanhaiya1
