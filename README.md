@@ -1,47 +1,53 @@
 # Hi there, I'm Krishna Kanhaiya 👋
 
-I am a Full-Stack Developer specializing in building robust transactional backends, scalable REST APIs, and intelligent AI-orchestrated workflows. I enjoy solving complex business logic challenges, optimizing data retrieval pipelines, and developing clean web architectures.
+[![GitHub Portfolio](https://img.shields.io/badge/GitHub-KrishnaKanhaiya1-181717?style=for-the-badge&logo=github)](https://github.com/KrishnaKanhaiya1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna_Kanhaiya-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krishna-kanhaiya-124080295/)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-Website-success?style=for-the-badge&logo=react)](https://krishnakanhaiya1.github.io/PortfolioWebsite/)
+
+> **Full-Stack Developer & Systems Architect.** Specializing in scalable RESTful backends, transactional reconciliation engines, multi-agent AI workflows (LangGraph, Gemini API), and modern Next.js web applications.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+## 🚀 Featured Projects
+
+### 🗺️ [smartTour](https://github.com/KrishnaKanhaiya1/smartTour) — Multi-Agent Travel Concierge
+* **Tech Stack**: Next.js 14, React 18, Tailwind CSS, Google Gemini API, OpenStreetMap API.
+* **Highlights**: Event-driven orchestrator coordinating 8 autonomous sub-agents for itinerary generation, food recommendations, and travel safety advisories.
+* 👉 **[Explore Live Application](https://smarttour-test.vercel.app/)**
+
+### 🧾 [ITRCoPilot](https://github.com/KrishnaKanhaiya1/ITRCoPilot) — LangGraph Tax Filing Engine
+* **Tech Stack**: Python 3.10, FastAPI, LangGraph State Machine, Gemini API.
+* **Highlights**: 8-agent tax validation pipeline parsing Form 16/26AS documents and evaluating Old vs. New Tax Regime savings options.
+* 👉 **[Explore Live Application](https://itr-co-pilot.vercel.app/)**
+
+### ⚖️ [Three-Way Match Engine](https://github.com/KrishnaKanhaiya1/Three-Way-MatchEngine) — Procurement Reconciliation System
+* **Tech Stack**: Node.js, Express, MongoDB, Gemini OCR, Levenshtein Algorithm.
+* **Highlights**: Reconciles Purchase Orders, Goods Receipt Notes, and Invoices using fuzzy string comparison algorithms.
+
+### 📊 [Smart Incentive Calculator](https://github.com/KrishnaKanhaiya1/Smart-Incentive-Calculator) — Incentive Payout Engine
+* **Tech Stack**: Next.js 14, TypeScript, PostgreSQL, Prisma ORM, NextAuth.js.
+* **Highlights**: Full-stack incentive calculation platform automating multi-tiered sales commission logic and payout analytics.
+* 👉 **[Explore Live Application](https://smart-incentive-calculator-gamma.vercel.app/)**
+
+### 🌊 [CoastGuard AI](https://github.com/KrishnaKanhaiya1/CoastGuardAI) — Climate Intelligence System
+* **Tech Stack**: Python, Streamlit, Geospatial ML, TensorFlow.
+* **Highlights**: Merges satellite geospatial data with crowdsourced community reports for coastal hazard scoring and evacuation routing.
+* 👉 **[Explore Live Application](https://coastguard-by-krishna-kanhaiya.streamlit.app/)**
+
+---
+
+## 🛠️ Technical Skillset
 
 * **Languages**: JavaScript (ES6+), TypeScript, Python, HTML/CSS, SQL
-* **Frontend**: React.js, Next.js (App Router), Tailwind CSS, Redux Toolkit
-* **Backend & Databases**: Node.js, Express.js, MongoDB (Mongoose), PostgreSQL, Redis
-* **AI & Orchestration**: LangGraph, Gemini API, OpenAI API, Vector Embeddings (sentence-transformers)
-* **DevOps & Tools**: Docker, Docker Compose, Git, GitHub Actions, Vercel, Render
+* **Frontend**: Next.js (App Router), React.js, Tailwind CSS, Material UI, Redux Toolkit
+* **Backend & Databases**: Node.js, Express.js, FastAPI, PostgreSQL, MongoDB, Prisma ORM, Redis
+* **AI & Orchestration**: LangGraph, Gemini API, OpenAI API, ChromaDB Vector DB, RAG Pipelines
+* **Tools & DevOps**: Docker, Docker Compose, Git, GitHub Actions, Vercel
 
 ---
 
-### 🚀 Highlighted Projects
+## 📫 Contact Information
 
-#### [Three-Way Match Engine](https://github.com/KrishnaKanhaiya1/Three-Way-MatchEngine)
-A high-performance reconciliation engine designed to automate three-way matching for procurement documents (Purchase Orders, Goods Receipt Notes, Invoices).
-* **Core Tech**: Node.js, Express, MongoDB, Google Gemini API (for intelligent OCR extraction)
-* **Key Focus**: Handles out-of-order uploads, implements fuzzy item matching (Levenshtein-based), and ensures transaction reconciliation consistency.
-
-#### [ITRCoPilot](https://github.com/KrishnaKanhaiya1/ITRCoPilot)
-An agentic AI workflow automating Income Tax Return (ITR) filing through a multi-agent graph orchestration.
-* **Core Tech**: Python, LangGraph-style state graph, Gemini API, Pydantic
-* **Key Focus**: Uses 8 specialized agents coordinated by a Supervisor agent to classify tax documents, extract financial data, compute optimal tax regimes, and perform validation logic.
-
-#### [smartTour](https://github.com/KrishnaKanhaiya1/smartTour)
-A Next.js multi-agent travel assistant that automates itinerary planning, safety recommendations, and local travel concierge services.
-* **Core Tech**: Next.js (App Router), React, Google Gemini API, OpenStreetMap API
-* **Key Focus**: Implements a modular agent architecture coordinating real-time sub-agents (itinerary planners, translation, safety, and food recommendations).
-
-#### [NaviMoney (finLiteracy)](https://github.com/KrishnaKanhaiya1/finLiteracy)
-A production-grade financial literacy and stock simulator platform built for youth learning personal finance.
-* **Core Tech**: Next.js, Express, TypeScript, PostgreSQL, OpenAI API, Twilio, Docker
-* **Key Focus**: Built with robust architecture featuring gamified micro-lessons, live stock trading simulators, and SMS alerts.
-
----
-
-### 📊 GitHub Stats & Activity
-
-* 🔭 Currently expanding my knowledge in system design, distributed systems, and real-time backend communication (WebSockets, SSE).
-* 💬 Ask me about **API design**, **data normalization**, and **state-machine routing**.
-* 📫 How to reach me: [LinkedIn](https://linkedin.com/in/krishna-kanhaiya-124080295) | [Email](mailto:kahaiya1krishna@gmail.com)
-
-[github-profile]: https://github.com/KrishnaKanhaiya1
+* 🌐 **Portfolio Website**: [krishnakanhaiya1.github.io/PortfolioWebsite](https://krishnakanhaiya1.github.io/PortfolioWebsite/)
+* 💼 **LinkedIn**: [linkedin.com/in/krishna-kanhaiya-124080295](https://www.linkedin.com/in/krishna-kanhaiya-124080295/)
+* 📧 **Email**: [kanhaiya1krishna@gmail.com](mailto:kanhaiya1krishna@gmail.com)
